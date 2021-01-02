@@ -1,7 +1,7 @@
 # Name popularity
 The web application displays graph with popularity of names given to newborns in Poland in XXI century. 
 
-[names-popularity-app.herokuapp.com](https://names-popularity-app.herokuapp.com "deployed on heroku")
+Deployed on heroku [names-popularity-app.herokuapp.com](https://names-popularity-app.herokuapp.com "deployed on heroku")
 
 ## stack:
 * dash
@@ -10,5 +10,7 @@ The web application displays graph with popularity of names given to newborns in
 ## setup
 ``
 pip3 install -r requirements.txt
+``
+``
 python3 app.py
 ``
