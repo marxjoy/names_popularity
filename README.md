@@ -9,4 +9,5 @@ Deployed on Heroku [names-popularity-app.herokuapp.com](https://names-popularity
 
 ## setup
 `pip3 install -r requirements.txt`
+
 `python3 app.py`
