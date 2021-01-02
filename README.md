@@ -8,8 +8,5 @@ Deployed on Heroku [names-popularity-app.herokuapp.com](https://names-popularity
 * pandas
 
 ## setup
-``
-pip3 install -r requirements.txt
-
-python3 app.py
-``
+`pip3 install -r requirements.txt`
+`python3 app.py`
