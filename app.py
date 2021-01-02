@@ -44,7 +44,7 @@ def update(name):
     fig = go.Figure(data=go.Bar(y=df_temp['Liczba'].values, x=df_temp['Rok'].values),)
     fig.update_layout(title=f'Tyle razy imię {name} zostało nadane jako pierwsze w Polsce w latach 2000-2019',
                       hovermode='x',
-                      xaxis_title = 'Lata',
+                      xaxis_title = 'Lata - up',
                       font=dict(
                         family="Courier New, monospace",
                         size=18,
